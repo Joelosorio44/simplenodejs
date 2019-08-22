@@ -1,0 +1,9 @@
+.contenedor {
+  width: 100%;
+  background-color: red;
+}
+.contenedor .elemento {
+  margin: 0px auto;
+}
+
+/*# sourceMappingURL=styles.css.map */

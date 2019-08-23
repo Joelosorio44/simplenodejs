@@ -1,0 +1,5 @@
+node_modules/
+_MACOSX/
+.DS_STORE
+*.db
+*.ini

@@ -4,18 +4,19 @@
   "description": "Servidor de archivos estáticos simple en Node.js (sin frameworks)",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smessina/simplenodejs.git"
+    "url": "git+https://github.com/Joelosorio44/simplenodejs.git"
   },
   "author": "Silvio Messina",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/smessina/simplenodejs/issues"
+    "url": "https://github.com/Joelosorio44/simplenodejs/issues"
   },
-  "homepage": "https://github.com/smessina/simplenodejs#readme",
+  "homepage": "https://github.com/Joelosorio44/simplenodejs#readme",
   "dependencies": {
     "nodemon": "^1.19.1"
   }
